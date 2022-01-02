@@ -1,2 +1,2 @@
 # ubiquitous-goggles
-emailApp
+Email app
